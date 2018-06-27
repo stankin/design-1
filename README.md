@@ -3,4 +3,4 @@
 
 [Общий план занятий](https://github.com/stankin/design-2018/wiki)
 
-[Дневники практики](https://github.com/stankin/design-2018/wiki/list)
+[Дневники летней практики](https://github.com/stankin/design-2018/wiki/list)
