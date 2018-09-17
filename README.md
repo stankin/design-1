@@ -10,3 +10,6 @@
 [Список группы ИДБ-15-14](https://github.com/stankin/design-2018/wiki/list-idb-15-14)
 
 [Дневники летней практики](https://github.com/stankin/design-2018/wiki/list)
+
+[Материалы 2017](https://yadi.sk/d/qhFl_QMq3Maag9)
+
