@@ -13,5 +13,5 @@
 
 [Материалы 2017](https://yadi.sk/d/qhFl_QMq3Maag9)
 
-[Курсовые работы 2018]()
+[Курсовые работы 2018](https://yadi.sk/d/vLdmfaLmIh7I6g)
 
