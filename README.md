@@ -8,11 +8,11 @@
 
 [Общий план занятий](https://github.com/stankin/design-1/wiki)
 
-[Отчеты о лабораторных работах ИДБ-16-12](https://github.com/stankin/design-1/wiki/list-idb-16-12)
+[Отчеты о лабораторных работах ИДБ-16-05](https://github.com/stankin/design-1/wiki/list-idb-16-05)
 
-[Отчеты о лабораторных работах ИДБ-16-13](https://github.com/stankin/design-1/wiki/list-idb-16-13)
+[Отчеты о лабораторных работах ИДБ-16-06](https://github.com/stankin/design-1/wiki/list-idb-16-06)
 
-[Отчеты о лабораторных работах ИДБ-16-14](https://github.com/stankin/design-1/wiki/list-idb-16-14)
+[Отчеты о лабораторных работах ИДБ-16-07](https://github.com/stankin/design-1/wiki/list-idb-16-07)
 
 ## Материалы 2018
 
