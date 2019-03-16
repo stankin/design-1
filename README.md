@@ -3,11 +3,11 @@
 
 [Общий план занятий](https://github.com/stankin/design-1/wiki)
 
-[Список группы ИДБ-16-12](https://github.com/stankin/design-1/wiki/list-idb-15-12)
+[Список группы ИДБ-16-12](https://github.com/stankin/design-1/wiki/list-idb-16-12)
 
-[Список группы ИДБ-16-13](https://github.com/stankin/design-1/wiki/list-idb-15-13)
+[Список группы ИДБ-16-13](https://github.com/stankin/design-1/wiki/list-idb-16-13)
 
-[Список группы ИДБ-16-14](https://github.com/stankin/design-1/wiki/list-idb-15-14)
+[Список группы ИДБ-16-14](https://github.com/stankin/design-1/wiki/list-idb-16-14)
 
 [Дневники летней практики 2019](https://github.com/stankin/design-1/wiki/list-practice-2019)
 
