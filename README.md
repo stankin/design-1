@@ -1,6 +1,6 @@
 # Проектирование информационных систем
 
-[Чат](https://chat.whatsapp.com/FbGGprLowta8AHL2J2HuIi) и [кондуит](https://docs.google.com/spreadsheets/d/1RzC8UGs5BOLfuqu_TrQMsynlbSCbhmbmH8lqjVV-p3M/edit#gid=988877027) ИДБ-17-05,06,07
+[Чат](https://chat.whatsapp.com/FbGGprLowta8AHL2J2HuIi) и [кондуит](https://docs.google.com/spreadsheets/d/19KSYONTNDXPMyvtuzD8u2_tyQ_KAgjyOd-PmrfK8RPs/edit?usp=sharing) ИДБ-17-05,06,07
 
 ## Летняя практика - 2018, 2019, 2020
 
